@@ -9,7 +9,7 @@ This project aim to remove the **third party** service and give to user all cont
 ## 🚀 Run
 1. Clone this repository
 ```shell
-git clone git@github.com:ynhhoJ/moon-reader-highlights.git
+git clone git@github.com:ajg-github/moon-reader-highlights.git
 ```
 2. Install dependencies
 ```shell
